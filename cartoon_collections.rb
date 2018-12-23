@@ -18,4 +18,3 @@ def find_the_cheese(cheddar_cheese)# code an argument here
   cheese_types.include? do |cheese|
   end
 end
-
